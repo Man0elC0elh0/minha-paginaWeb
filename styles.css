@@ -1,0 +1,9 @@
+/* Estilo para o título h5 com bordas pretas e cor azul */
+.carousel-caption h5 {
+  color: purple;
+}
+
+/* Estilo para os títulos das seções 1, 2 e 3 com cor vermelha */
+section h2 {
+  color: red;
+}
